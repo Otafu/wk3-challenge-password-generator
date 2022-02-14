@@ -1,6 +1,6 @@
 1. [ Description. ](#desc)
 2. [ Web Address. ](#web-address)
-3. [ Usage tips. ](#usage)
+3. [ How to Use. ](#how-to-use)
 
 <a name="desc"></a>
 ## 1. Description
@@ -18,10 +18,10 @@ Desktop screen:
 ### Open your favorite web browser and enter the following web address to access.
 
 ```html
-https://github.com/Otafu/wk3-challenge-password-generator
+https://otafu.github.io/wk3-challenge-password-generator/
 ```
-<a name="usage"></a>
-## 3. Usage Tips
+<a name="how-to-use"></a>
+## 3. How to use.
 
 
 ### Follow the criteria instructions to generate a password matching the criteria selected.
