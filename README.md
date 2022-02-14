@@ -18,7 +18,7 @@ Desktop screen:
 ### Open your favorite web browser and enter the following web address to access.
 
 ```html
-https://otafu.github.io/wk3-challenge-password-generator/
+https://github.com/Otafu/wk3-challenge-password-generator
 ```
 <a name="usage"></a>
 ## 3. Usage Tips
